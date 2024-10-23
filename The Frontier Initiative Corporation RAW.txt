@@ -1,0 +1,685 @@
+The Frontier Initiative Corporation 
+Organization Manual 
+(Star Citizen)
+Table of Contents 
+1. Introduction
+• Mission Statement
+• Core Values
+2. Organizational Structure
+• Leadership Roles
+• Department Overview
+3. Code of Conduct
+4. Departmental Operations
+• Exploration & Survey
+• Industry & Manufacturing
+• Logistics & Trade
+• Security Operations
+• Planetary Operations
+• Finance & Resource Management
+5. Ranks and Advancement
+6. Operational Guidelines
+• Mission Types and Participation
+• Profit Sharing and Rewards
+7. Conflict Resolution and Discipline
+8. Communication and Coordination
+9. Amendments and Updates
+Section 1: Introduction 
+Mission Statement 
+The Frontier Initiative Corporation (TFIC) exists to explore the unknown, build 
+sustainable infrastructure, and create lasting prosperity. Rooted in the ideals of 
+progress and freedom, TFIC is a place for adventurers, traders, industrialists, and combat 
+operatives to thrive together. With every jump point we discover and every outpost we 
+establish, we push the boundaries of what is possible in the ‘verse.
+Core Values 
+TFIC operates on the following guiding principles:
+• Exploration & Discovery: We believe that the future lies beyond the known. Our 
+mission is to explore new systems, chart new jump points, and unlock the 
+potential of uncharted space.
+• Crafting & Industry: Progress is built, and we take pride in transforming 
+resources into opportunities through mining, refining, and manufacturing.
+• Collaboration & Community: We foster an inclusive, positive environment. 
+Teamwork and mentoring are key pillars of our success.
+• Security & Prosperity: We defend what we build. Whether in space or on the 
+ground, TFIC protects its members, operations, and trade routes.
+• Freedom & Respect: We believe in a casual playstyle—there are no strict 
+obligations, and real life always comes first. Respect is paramount, and we 
+maintain a zero-tolerance policy toward negativity, hostility, and toxic 
+behavior.
+Section 2: Organizational Structure 
+Leadership Roles 
+The leadership team ensures TFIC’s operations align with its mission and goals. Key 
+leaders oversee various departments, ensuring cross-department collaboration and 
+smooth operations.
+1. Chief Executive Officer (CEO) 
+o Establishes strategic goals and oversees the corporation’s long-term 
+vision.
+2. Chief Operations Officer (COO) o Manages daily operations and 
+coordinates between departments.
+3. Director of Defense (DoD) 
+o Oversees all military operations through the Iron Star Division, 
+ensuring security across space and planetary fronts.
+4. Chief Logistics Officer (CLO) o Manages resource flow, 
+transportation, and trade networks.
+5. Chief Financial Officer (CFO) o Oversees financial planning, 
+resource allocation, and profit-sharing.
+Iron Star Division 
+"Hold the Line Across Land and Stars." 
+The Iron Star Division serves as TFIC’s defensive force, ensuring the safety of assets and 
+personnel across all operational environments. It consists of two specialized branches:
+Branch 1: Star Fleet Operations 
+"Control the Stars." 
+The Star Fleet Operations branch manages space combat, fleet coordination, and 
+convoy protection.
+Key Roles: 
+• Fleet Commanders: Lead fleets and tactical space operations.
+• Fighter Pilots: Engage in combat and protect convoys.
+• Tactical Officers: Coordinate fleet movements and reinforcements.
+• Support Crews: Handle ship repairs, refueling, and engineering.
+• Medical Officers (Fleet Division): Provide triage and care aboard capital ships and 
+carriers.
+Key Activities: 
+• Escorting convoys to protect trade routes.
+• Engaging in space battles and fleet operations.
+• Conducting search and rescue missions for stranded members.
+• Providing onboard medical support during fleet engagements.
+Branch 2: Terraguard 
+"Secure the Ground, Dominate the Sky." 
+Terraguard handles ground operations, including air, land, and sea missions. It ensures 
+the defense of outposts, infrastructure, and mining operations.
+Key Roles: 
+• Field Commanders: Lead tactical ground missions and operations.
+• Wardens: Defend key locations and infrastructure.
+• Pathfinders: Conduct recon and tactical strikes.
+• Air Support Pilots: Deploy teams and provide air cover.
+• Naval Specialists: Manage aquatic operations for transport or coastal defense.
+• Combat Medics: Provide first aid and emergency care during ground operations 
+and missions.
+Key Activities: 
+• Defending mining operations, outposts, and settlements.
+• Conducting recon and tactical assaults on enemy installations.
+• Supporting air and sea operations for rapid response missions.
+• Providing medical support to injured personnel during ground combat.
+Medical Corps Overview 
+The Medical Corps serves as the backbone of health and wellness within the Iron Star 
+Division. It is integrated into both Star Fleet Operations and Terraguard, ensuring all 
+personnel—whether on a starship or in the field—have access to care.
+Medical Roles: 
+• Fleet Medical Officers: Provide medical services aboard starships, including 
+surgeries and emergency response.
+• Combat Medics: Operate in the field, stabilizing wounded personnel until they 
+can be evacuated.
+• Rescue Specialists: Assist with search-and-rescue missions, evacuating injured 
+team members to safety.
+Key Activities: 
+• Performing onboard triage during fleet battles.
+• Deploying field medics alongside ground forces.
+• Supporting evacuation efforts during critical operations.
+• Assisting in the recovery and rehabilitation of injured personnel.
+Inter-Branch Coordination 
+• Joint Operations: Star Fleet Operations and Terraguard often collaborate on joint 
+missions requiring air-ground coordination.
+• Cross-Training: Members of both branches train together for multi-environment 
+operations, ensuring flexibility and preparedness.
+• Emergency Response: Fleet Medical Officers and Combat Medics work closely 
+during crises, ensuring medical coverage across all missions.
+Section 3: Code of Conduct 
+"Respect. Cooperate. Thrive."
+The Frontier Initiative Corporation (TFIC) is built on the principles of collaboration, 
+respect, and community. To maintain a welcoming and productive environment for all 
+members, we adhere to the following code of conduct.
+1. General Conduct Guidelines 
+• Respect All Members: Treat every member with kindness and professionalism, 
+whether during operations or casual interactions.
+• Promote Positivity: Help build a supportive environment where players of all 
+skill levels can thrive.
+• No Toxic Behavior: We have zero tolerance for toxicity, including harassment, 
+bullying, or discrimination of any kind.
+• Be Inclusive: TFIC welcomes individuals from diverse backgrounds. All members 
+should feel comfortable and safe in our community.
+• Respect Real-Life Commitments: We understand that real life comes first. Play 
+at your own pace without pressure.
+2. Communication Rules 
+• Use Appropriate Channels: Keep discussions relevant to the topic of each 
+Discord or in-game channel (e.g., operations planning, trade coordination, 
+general chat).
+• Follow Voice Chat Etiquette: Be courteous when using voice channels—allow 
+others to speak, avoid interruptions, and use push-to-talk if needed.
+• Constructive Feedback: Provide feedback that is helpful and respectful. Avoid 
+public criticism or hostility toward other members.
+• Resolve Disputes Privately: If disagreements arise, handle them privately or 
+with officer mediation rather than escalating in public channels.
+3. Participation in Missions and Operations 
+• Be Reliable: If you commit to a mission, make your best effort to participate. 
+Inform leadership if you need to withdraw.
+• Follow Mission Leadership: During missions, respect the decisions of assigned 
+leaders or officers. Their role is to ensure success for the entire team.
+• Support New Players: Experienced members are encouraged to mentor and 
+assist new recruits. Help them grow within the organization.
+• Stay Focused During Missions: Avoid disruptive behavior during organized 
+missions and respect operational priorities.
+4. Security and Asset Management 
+• Protect Corporate Assets: All TFIC assets, including ships, equipment, and funds, 
+are to be used responsibly and for the benefit of the organization.
+• No Unauthorized Use of Ships or Resources: Members are expected to seek 
+permission before using shared ships, tools, or assets.
+• Combat and Conflict Rules: Aggressive behavior toward fellow members or 
+reckless combat is not tolerated. Always follow security protocols when 
+engaging in PvP.
+5. Disciplinary Actions 
+To maintain the integrity of TFIC, we reserve the right to take disciplinary action when 
+necessary. The Director of Operations and officers will handle violations of this Code 
+of Conduct.
+• Warning: Minor violations will result in a verbal or written warning.
+• Probation: Repeated offenses may result in restricted participation in missions 
+and activities.
+• Removal from TFIC: Severe or repeated violations, especially involving toxic 
+behavior or theft, will result in removal from the organization.
+All disciplinary actions will follow a fair review process, ensuring all voices are heard 
+before decisions are made.
+6. Conflict Resolution and Mediation 
+• Internal Disputes: Members are encouraged to resolve conflicts privately. If an 
+issue cannot be resolved, contact an officer or department head for mediation.
+• Report Issues Promptly: If you witness behavior that violates our code, report it 
+to an officer or director. All reports will be handled discreetly and respectfully.
+7. Representation of TFIC 
+As a member of TFIC, you represent the organization both in-game and on external 
+platforms (e.g., Discord, Spectrum forums). All members are expected to uphold the 
+values and reputation of the organization wherever they engage.
+Acknowledgment and Agreement 
+By joining TFIC, members agree to abide by this Code of Conduct. The success of our 
+organization depends on the respect and cooperation of every individual. Together, we 
+will create a thriving and positive community that values exploration, crafting, and 
+teamwork.
+Section 4: Departmental Operations 
+4.1 Exploration & Survey Department 
+"Chart the Unknown."
+Purpose: 
+The Exploration & Survey Department leads the way in discovering new systems, 
+identifying resource locations, and mapping jump points. Their work supports other 
+departments by providing critical data to enable mining, trade routes, and mission 
+planning.
+Key Roles: 
+• Scout Pilots: Operate small exploration vessels to survey planetary systems.
+• Navigators: Chart jump points and plan routes for safe travel.
+• Survey Analysts: Interpret scan data to identify potential resource deposits or 
+infrastructure locations.
+• Cartographers: Create detailed maps and charts for use by the Logistics and 
+Trade Network.
+Key Activities: 
+• Jump Point Mapping: Discover and map new jump points to open travel routes 
+to unexplored areas.
+• Planetary Surveys: Conduct deep scans to find valuable resources on planets 
+and moons.
+• Scouting Operations: Identify safe zones for outposts or areas of interest for 
+further investigation.
+• Data Exchange: Share exploration data with the Logistics & Trade Network to 
+plan resource transportation and trade.
+How to Get Involved: 
+• Join exploration missions using ships like the Anvil Carrack, Origin 315p, or 
+Drake Herald.
+• Report findings in the exploration logs for use by other departments.
+• Collaborate with Logistics and Industry to scout potential mining sites.
+• Participate in jump-point discovery missions to open new trade routes.
+4.2 Industry & Manufacturing Division 
+"Build the Future."
+Purpose: 
+The Industry & Manufacturing Division transforms raw materials into valuable goods. 
+This division powers the corporation’s mining, refining, and crafting efforts, ensuring 
+a steady flow of resources to support trade, infrastructure, and fleet development.
+Key Roles: 
+• Mining Specialists: Operate mining ships and manage extraction operations.
+• Refinery Operators: Process raw resources into refined materials for use or 
+trade.
+• Manufacturing Engineers: Build ships, components, and infrastructure to 
+support corporate activities.
+• Production Planners: Coordinate crafting projects to meet the needs of other 
+departments, including Logistics and Fleet Operations.
+Key Activities: 
+• Mining Expeditions: Use ships like the MISC Prospector and Orion to extract 
+valuable materials from asteroids, planets, and moons.
+• Resource Refining: Process raw materials at refineries to maximize value and 
+utility.
+• Manufacturing: Create ships, modules, and equipment to support exploration, 
+defense, and trade.
+• Infrastructure Development: Build and maintain outposts, refineries, and other 
+installations to support long-term operations.
+How to Get Involved: 
+• Participate in mining missions using dedicated mining ships, or assist with 
+ground-based resource extraction.
+• Work with Production Planners to manufacture equipment for missions and 
+trade.
+• Assist refinery teams in processing raw materials collected by mining operations.
+• Coordinate with Logistics to ensure that resources are transported to where 
+they’re needed most.
+4.3 Logistics & Trade Network 
+"Connect the Galaxy."
+Purpose: 
+The Logistics & Trade Network ensures that resources, goods, and equipment flow 
+efficiently between departments, outposts, and markets. By managing trade routes and 
+supply chains, this division supports both internal operations and external trade 
+ventures, ensuring prosperity for TFIC.
+Key Roles: 
+• Cargo Pilots: Transport goods across systems, using cargo ships like the MISC 
+Hull series or Drake Caterpillar.
+• Supply Chain Managers: Oversee the movement of resources between mining, 
+production, and trade hubs.
+• Trade Officers: Identify profitable trade opportunities in markets and manage 
+high-value contracts.
+• Quartermasters: Monitor inventory and maintain records of all materials in use 
+across TFIC operations.
+Key Activities: 
+• Trade Missions: Transport and sell manufactured goods and resources to 
+generate profits for the organization.
+• Supply Runs: Deliver essential materials and equipment to outposts, ships, and 
+operations.
+• Market Analysis: Track commodity trends and identify high-demand trade 
+routes.
+• Convoy Coordination: Work with Star Fleet Operations to secure cargo during 
+high-risk missions.
+How to Get Involved: 
+• Fly cargo missions or participate in convoys to ensure safe transport of goods.
+• Collaborate with Industry & Manufacturing to move refined resources for sale 
+or use in production.
+• Join profit-sharing missions by participating in trade runs, earning rewards 
+based on mission success.
+• Assist Quartermasters in managing inventory and coordinating supply runs.
+4.4 Iron Star Division 
+"Hold the Line Across Land and Stars."
+The Iron Star Division is TFIC’s military and defense arm, responsible for securing the 
+corporation’s assets, members, and operations across both space and planetary 
+environments. It consists of two branches: Star Fleet Operations and Terraguard. Each 
+branch specializes in a different domain, but they collaborate on joint operations to 
+ensure seamless protection across all fronts.
+Branch 1: Star Fleet Operations 
+"Control the Stars."
+Star Fleet Operations focuses on space combat, fleet coordination, and convoy 
+protection. Fleet members engage in dogfights, capital ship battles, and escort 
+missions to defend trade routes and TFIC operations.
+Key Roles:
+• Fleet Commanders: Coordinate multi-ship operations, managing battle groups 
+and strategic maneuvers.
+• Fighter Pilots: Engage enemies in space combat and provide escort services for 
+high-value convoys.
+• Tactical Officers: Manage reinforcements and oversee the tactical side of fleet 
+operations.
+• Support Crews: Maintain ships, handle refueling, and perform in-flight repairs.
+• Medical Officers (Fleet Division): Provide triage and care aboard capital ships, 
+ensuring crew health during extended missions.
+Key Activities:
+• Convoy Escorts: Safeguard cargo during long-haul trade missions.
+• Fleet Battles: Engage in strategic combat to defend TFIC’s territory and assets.
+• Recon Patrols: Monitor space lanes and scan for threats.
+• Search and Rescue: Retrieve stranded members and assets from hostile areas.
+• Joint Missions: Collaborate with Terraguard for air-ground combat scenarios.
+Branch 2: Terraguard 
+"Secure the Ground, Dominate the Sky."
+Terraguard specializes in planetary defense and multi-environment operations. It 
+handles ground combat, air support, and maritime operations, ensuring that TFIC’s 
+outposts, mining sites, and infrastructure remain secure.
+Key Roles:
+• Field Commanders: Lead ground operations and tactical missions on planets 
+and moons.
+• Wardens: Defend infrastructure and strategic points from hostile incursions.
+• Pathfinders: Conduct reconnaissance and precision strikes against enemies.
+• Air Support Pilots: Operate dropships and provide air superiority for rapid 
+deployment.
+• Naval Specialists: Manage sea-based operations, including coastal defense and 
+aquatic missions.
+• Combat Medics: Provide emergency medical care during ground operations and 
+assist with evacuations.
+Key Activities:
+• Outpost Defense: Secure mining operations, production facilities, and 
+settlements.
+• Tactical Assaults: Lead strategic strikes against rival organizations or hostile 
+threats.
+• Recon Missions: Scout enemy movements and report back to leadership.
+• Rapid Response: Deploy via air or sea to respond to emergencies.
+• Joint Operations: Coordinate with Star Fleet Operations to ensure seamless 
+airground integration during combat missions.
+Medical Support in the Iron Star Division 
+The Medical Corps is embedded within both Star Fleet and Terraguard to ensure 
+members are cared for during combat and operations. Fleet Medical Officers and 
+Combat Medics work together to stabilize injured personnel and evacuate them to 
+safety when necessary.
+Key Activities:
+• Fleet Medical Response: Provide in-flight care and perform surgeries aboard 
+capital ships.
+• Combat Medical Support: Operate in the field to stabilize injured personnel and 
+oversee evacuations.
+• Rescue and Recovery: Assist with search-and-rescue missions during 
+emergencies.
+Inter-Branch Coordination 
+• Joint Task Forces: The Iron Star Division frequently forms task forces combining 
+Star Fleet and Terraguard personnel to handle multi-domain missions.
+• Training and Cross-Specialization: Members are encouraged to train across 
+branches to enhance operational flexibility.
+• Emergency Deployment: Both branches maintain quick-response units to 
+respond rapidly to developing threats.
+4.5 Finance & Resource Management Division 
+"Plan. Allocate. Prosper."
+Purpose: 
+The Finance & Resource Management Division ensures that TFIC remains economically 
+sustainable by handling funding, budgeting, profit-sharing, and resource 
+distribution. This division also monitors the in-game market to identify profitable 
+trade opportunities and support the organization’s growth.
+Key Roles: 
+• Accountants: Track funds, profits, and expenses across departments and 
+operations.
+• Market Analysts: Monitor commodity prices and identify high-value trade routes 
+or resource needs.
+• Profit Managers: Oversee profit-sharing systems to distribute rewards fairly 
+among members.
+• Resource Planners: Allocate resources strategically to support missions, 
+manufacturing, and fleet expansion.
+• Contract Negotiators: Manage external trade deals, resource acquisitions, and 
+supplier relationships.
+Key Activities: 
+• Profit-Sharing: Distribute mission earnings and trade profits based on individual 
+and team participation.
+• Resource Allocation: Ensure that departments, including Logistics and 
+Industry, receive the materials and funds they need.
+• Market Monitoring: Track commodity trends to guide trade decisions and 
+optimize buying/selling strategies.
+• Contract Management: Negotiate trade deals and secure contracts with other 
+organizations or external vendors.
+• Budget Planning: Develop budgets for expansion projects, fleet maintenance, 
+and infrastructure upgrades.
+How to Get Involved: 
+• Join the Market Analysis team to help identify profitable trade opportunities.
+• Assist Profit Managers with calculating and distributing earnings after missions.
+• Work with Logistics to plan resource supply runs and budget operations.
+• Monitor financial trends and events in the game to advise leadership on 
+potential investments.
+• Participate in contract negotiations with vendors or partners to secure favorable 
+trade deals.
+Section 5: Ranks and Advancement 
+"Grow with Us."
+The TFIC rank structure reflects both experience and contribution to the organization. 
+Members can progress by participating in operations, missions, and events. 
+Advancement comes with increased responsibilities, leadership opportunities, and 
+access to higher-level missions.
+Ranks Overview 
+The TFIC ranks provide a clear path for members to grow within the organization. 
+These ranks are flexible—players can explore multiple activities while advancing, 
+whether through exploration, industry, combat, or logistics.
+1. Recruit
+Role: New members learning the basics of TFIC operations.
+Expectations:
+o Participate in introductory missions or events.
+o Connect with a mentor for guidance on activities (e.g., mining, trade, 
+security).
+o Complete onboarding tasks, such as selecting a preferred role or 
+department.
+How to Advance:
+o Demonstrate an understanding of core operations.
+o Participate in at least one group mission or event.
+2. Junior Associate
+Role: Active contributors assisting in operations, trade, or defense.
+Expectations:
+o Support larger missions, such as trade convoys or exploration missions.
+o Collaborate with teams on small-scale projects or events. o Develop 
+specialized skills within your chosen department.
+How to Advance:
+o Regular participation in missions and activities.
+o Build relationships within the organization through teamwork.
+3. Senior Associate
+Role: Trusted members with experience in multiple operations.
+Expectations:
+o Provide mentorship to new recruits and junior members. o Assist with 
+mission planning and resource management.
+o Lead small teams or manage independent projects.
+How to Advance:
+o Demonstrate leadership in at least one mission or operation.
+o Maintain consistent involvement in events and mentoring.
+4. Specialist
+Role: Experts in a particular field, such as exploration, logistics, security, or 
+crafting.
+Expectations:
+o Lead missions and specialized operations in your field. o Collaborate 
+with officers to refine departmental strategies.
+o Develop cross-discipline knowledge to support multi-role missions.
+How to Advance:
+o Complete specialized training or missions.
+o Show initiative by organizing missions or training events.
+5. Officer
+Role: Leaders responsible for managing operations within their department.
+Expectations:
+o Organize missions, assign roles, and ensure mission success. o Recruit, 
+mentor, and support new members.
+o Work closely with department heads to align operations with TFIC’s goals.
+How to Advance:
+o Consistent leadership in missions and events.
+o Demonstrate the ability to manage multiple responsibilities.
+6. Executive Officer
+Role: High-level leaders and deputies to department heads. They support 
+toplevel decision-making and ensure the smooth operation of large-scale 
+projects. Expectations:
+o Oversee large missions or operations involving multiple departments. o Act 
+as a liaison between members and leadership.
+o Support department heads by managing day-to-day operations.
+How to Advance:
+o Appointed based on merit, leadership ability, and dedication.
+o Recommendation by officers or department heads.
+Advancement Guidelines 
+• Merit-Based Progression: Members advance through participation, leadership, 
+and mentorship. Dedication to the organization and teamwork are highly valued.
+• Cross-Department Experience: Members are encouraged to gain experience in 
+multiple departments, improving flexibility and versatility.
+• Mentorship Opportunities: Senior members help recruits and junior associates 
+grow, fostering a collaborative and supportive environment.
+Rewards for Advancement 
+• Access to Higher-Level Missions: Higher ranks gain access to exclusive 
+missions and high-value trade runs.
+• Leadership Opportunities: Senior members and officers may take on leadership 
+roles during operations.
+• Profit-Sharing Bonuses: Officers and specialists involved in major missions 
+receive bonus rewards from trade or resource missions.
+Section 6: Operational Guidelines 
+"Coordinate. Execute. Thrive."
+This section outlines the expectations for mission participation, profit distribution, 
+and event coordination. Whether a member is engaging in exploration, trade, or 
+defense, these guidelines ensure every operation runs smoothly, rewarding teamwork 
+and collaboration.
+6.1 Mission Types and Participation 
+TFIC engages in a variety of operations across departments. Missions are organized by 
+department heads, officers, or members with leadership experience.
+Mission Types: 
+• Exploration Missions:
+Discover new systems, chart jump points, and gather valuable data for future use.
+• Mining and Industrial Operations:
+Extract resources from planets, moons, or asteroid belts to support crafting and 
+trade.
+• Trade Convoys:
+Transport goods across systems, generate profit, and establish trade networks.
+• Security Operations:
+Escort convoys, defend infrastructure, and engage enemy forces in space or on 
+the ground.
+• Joint Operations:
+Combine efforts from multiple departments, such as air-ground missions or 
+trade with fleet escorts.
+Participation Expectations: 
+• Sign-Up and Preparation: Members are encouraged to sign up for missions in 
+advance (via Discord or in-game) to ensure proper coordination.
+• On-Time Attendance: Arrive on time and fully equipped for the mission.
+• Follow Mission Leadership: Respect officers and mission commanders to ensure 
+smooth execution.
+• Adaptability: Be ready to adjust roles as needed during operations to meet 
+mission objectives.
+6.2 Event Coordination 
+TFIC hosts weekly events to keep members engaged and promote teamwork. These 
+include:
+• Scheduled Missions: Regularly planned exploration, trade, or defense missions.
+• Training Sessions: Cross-department training to improve combat skills, fleet 
+maneuvers, or logistics operations.
+• Special Events: Large-scale operations such as joint missions with other 
+organizations or in-game events.
+How to Join Events:
+• Stay updated via the #event-announcements channel on Discord.
+• Use #operations-planning to coordinate with team members and clarify roles.
+• Officers will assign leadership roles as needed based on member availability.
+6.3 Profit-Sharing and Rewards 
+TFIC follows a transparent profit-sharing system to ensure fair rewards for members 
+participating in missions.
+How Profit-Sharing Works: 
+• Mission Earnings: Profits from trade runs, mining expeditions, or contract 
+missions are pooled and distributed among participants.
+• Reward Distribution:
+o Direct Contributors (e.g., pilots, miners) receive a primary share. o
+Support Personnel (e.g., escorts, medics) receive a support share.
+o Leadership Bonuses: Officers leading major missions may receive 
+additional bonuses for their efforts.
+Tracking and Distribution: 
+• Profit Managers from the Finance Division track mission earnings and distribute 
+rewards accordingly.
+• Members can track their rewards and shares in the #mission-rewards channel 
+on Discord.
+6.4 Best Practices for Operations 
+• Plan Ahead: Officers are encouraged to plan missions and events in advance, 
+ensuring all roles are filled.
+• Communication is Key: Use the in-mission voice channels to coordinate in 
+real-time.
+• Backup Roles: Members should be prepared to step into backup roles if needed 
+during operations.
+• Post-Mission Debriefs: After major missions, officers will host a debrief session
+to review what worked well and what can improve.
+Section 7: Conflict Resolution and Discipline 
+"Resolve with Integrity, Act with Fairness."
+This section outlines how TFIC will handle internal disputes and violations of the Code 
+of Conduct. Our goal is to maintain harmony within the organization by resolving 
+conflicts swiftly, fairly, and discreetly.
+7.1 Conflict Resolution Procedures 
+Disagreements are natural in any group, but how they are handled defines the strength 
+of the community. TFIC encourages members to resolve issues privately and amicably, 
+with officer support if needed.
+Informal Resolution: 
+1. Speak Directly: Members are encouraged to talk things through respectfully with 
+each other in private.
+2. Seek Mediation: If the conflict persists, contact an Officer for mediation. 
+Officers will work to help both parties find common ground.
+Formal Resolution: 
+If informal attempts fail, a formal review may be conducted:
+1. Report the Issue: Submit a detailed account of the conflict to an Officer or 
+Department Head.
+2. Review Process: The involved parties will meet with an Officer or a panel of 
+members to discuss the issue.
+3. Resolution: The Officer or leadership panel will make a fair decision based on 
+the evidence and discussion.
+7.2 Discipline Policy 
+TFIC has a zero-tolerance policy for toxic behavior, including harassment, threats, or 
+any action that damages the integrity of the organization. Violations will be addressed 
+promptly through disciplinary actions outlined below.
+Types of Offenses: 
+• Minor Offenses:
+o Disruptive behavior during missions o Failure to 
+follow mission leadership instructions o
+Inappropriate behavior in public or voice channels
+Response: Verbal or written warning from an Officer.
+• Major Offenses:
+o Harassment, bullying, or discrimination o Theft 
+or unauthorized use of corporate assets o
+Intentional sabotage of operations or missions
+Response: Suspension or removal from the organization.
+7.3 Disciplinary Actions 
+• Warning: Issued for minor infractions. Repeated offenses may result in further 
+action.
+• Probation: Temporary suspension from certain roles or missions.
+• Suspension: Temporary removal from all TFIC activities, pending review.
+• Removal from the Organization: Immediate expulsion for serious or repeated 
+offenses.
+7.4 Appeals Process 
+Members who believe they were treated unfairly can request a review of disciplinary 
+actions. The review will be conducted by senior officers or department heads, 
+ensuring that all decisions are transparent and fair.
+Section 8: Communication and Coordination 
+"Stay Connected, Stay Informed."
+Effective communication is essential for the success of TFIC’s missions and daily 
+operations. This section outlines the channels and tools members will use to 
+coordinate, plan, and engage with the organization.
+8.1 Primary Communication Platforms 
+Discord 
+The TFIC Discord server is the central hub for day-to-day communication and 
+mission planning. It’s where members stay informed about events, chat casually, and 
+coordinate missions.
+Important Discord Channels:
+• #announcements: Official updates from leadership.
+• #introductions: New members introduce themselves.
+• #operations-planning: Mission coordination and role assignments.
+• #mission-rewards: Track earnings and profit-sharing.
+• #general-chat: Casual discussions and community-building.
+Guidelines for Discord Use:
+• Keep mission-critical conversations focused in relevant channels.
+• Respect voice chat etiquette (e.g., avoid interruptions and unnecessary noise).
+• Use role-specific channels (e.g., exploration, logistics) to connect with members 
+in your department.
+8.2 Voice Chat and Mission Communication 
+Clear communication during missions is critical. TFIC uses voice channels on Discord
+for real-time coordination during operations.
+• Pre-Mission Briefing: Mission leaders host a quick overview before each mission 
+to clarify objectives, roles, and strategies.
+• In-Mission Communication: Use assigned voice channels to ensure smooth 
+execution of operations.
+• Post-Mission Debriefs: Officers lead brief debriefs after missions to discuss 
+results and areas for improvement.
+8.3 In-Game Communication Tools 
+TFIC uses in-game communication tools to coordinate missions when Discord is 
+unavailable or during immersive roleplay scenarios.
+• Spectrum Chat: Stay connected to team members in-game using text channels 
+for quick updates.
+• Party and Fleet Chat: Use group-specific channels for fleet-wide coordination.
+• Comms Calls: Leverage in-game comms for private or direct communications 
+during missions.
+8.4 Coordination Across Departments 
+Cross-department collaboration ensures TFIC functions efficiently. Each department is 
+responsible for maintaining open lines of communication during joint operations.
+• Iron Star Division & Logistics: Coordinate closely during trade convoys to 
+ensure fleet escort support.
+• Exploration & Industry: Share survey data to locate new mining sites.
+• Medical Coordination: Medical teams will stay on standby during high-risk 
+missions, coordinating with fleet and ground operations.
+8.5 Communication Best Practices 
+• Stay Respectful: Always follow TFIC’s Code of Conduct when communicating 
+with others.
+• Stay Focused: Keep conversations on-task during missions and events.
+• Ask for Help: Use the #help-and-support channel if you have questions or 
+technical issues.
+• Use Clear Callouts: During missions, be concise and precise to avoid confusion.
+Section 9: Amendments and Updates 
+"Evolve to Thrive."
+As TFIC grows and evolves, it may be necessary to update the organization’s policies, 
+structure, or procedures to reflect new developments or feedback from members. 
+This section outlines how changes will be made and communicated, ensuring 
+transparency and alignment across the organization.
+9.1 Amendment Process 
+1. Proposal of Changes:
+o Amendments may be proposed by officers, department heads, or 
+leadership. Members may also submit suggestions for review.
+o All proposals must include a clear description of the change and how it 
+benefits the organization.
+2. Review and Approval:
+o Proposed amendments will be reviewed by the CEO, COO, and relevant 
+department heads.
+o Significant changes may be discussed with officers and senior members
+for feedback.
+o Once approved, the amendment will be added to the manual and 
+communicated to the membership.
+9.2 Communication of Changes 
+• Announcements: All amendments will be announced in the #announcements
+channel on Discord.
+• Changelog: A changelog document will be maintained and pinned for easy 
+reference.
+• Town Hall Meetings: For major updates, TFIC leadership may hold a town hall 
+session to discuss changes and answer questions.
+9.3 Member Involvement 
+TFIC values feedback from all members. The organization will hold regular feedback 
+sessions to gather input from members on operations, policies, and events. These 
+sessions ensure that everyone’s voice is heard and that the organization continues to 
+grow in line with member expectations.
+9.4 Frequency of Reviews 
+• Quarterly Reviews: Leadership will conduct a formal review of the manual and 
+policies every quarter to ensure everything remains relevant and effective.
+• Emergency Updates: In urgent situations, changes may be implemented 
+immediately and reviewed after the fact to ensure compliance with TFIC’s values.
+This section ensures that TFIC can adapt over time while keeping the membership 
+informed and engaged. With a transparent process for amendments and a commitment 
+to regular reviews, the organization will continue to thrive and grow as new challenges 
+and opportunities arise.
